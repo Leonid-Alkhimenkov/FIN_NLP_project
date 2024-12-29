@@ -1,0 +1,8 @@
+numpy
+pandas
+torch
+regex
+scikit-learn
+transformers[torch]
+tqdm
+sentencepiece
